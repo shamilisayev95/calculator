@@ -1,0 +1,29 @@
+{
+  "name": "calculatorhomework2-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behramshah/calculatorhomework2-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behramshah/calculatorhomework2-/issues"
+  },
+  "homepage": "https://github.com/behramshah/calculatorhomework2-#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "browserify": "16.5.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-csso": "^4.0.1",
+    "vinyl-source-stream": "2.0.0"
+  }
+}
